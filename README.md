@@ -1,0 +1,2 @@
+# sektorTicketBot
+ Telegram ticket bot
